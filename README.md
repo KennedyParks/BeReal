@@ -33,7 +33,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/oy1Xulw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+![BeReal-Walkthrough](https://user-images.githubusercontent.com/112662157/227814804-c32ce9c6-9f6d-4fe7-bffb-19a9382f5b76.gif)
+
+
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
