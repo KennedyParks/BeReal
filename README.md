@@ -2,7 +2,7 @@
 
 Submitted by: **Kennedy Parks**
 
-**BeReal** is an imitation of the actual app. BeReal. In BeReal, users can create a profile and upload images. They can add custom captions to their images and see all uploaded images in a scrollable feed. Users have the ability to log out of their accounts.
+**BeReal** is an imitation of the actual app, BeReal. In BeReal, users can create a profile and upload images. They can add custom captions to their images and see all uploaded images in a scrollable feed. Users have the ability to log out of their accounts.
 
 Time spent: **5** hours spent in total
 
@@ -35,9 +35,7 @@ Here's a walkthrough of implemented user stories:
 
 ![BeReal-Walkthrough](https://user-images.githubusercontent.com/112662157/227814804-c32ce9c6-9f6d-4fe7-bffb-19a9382f5b76.gif)
 
-
-
-
+Imgur link - https://i.imgur.com/oy1Xulw.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
